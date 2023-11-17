@@ -19,7 +19,6 @@ Howdy! I am currently studying software engineering at Coding Dojo as well as se
 - 🌱 I’m currently learning C# and advanced Python 
 - 💬 Ask me about my projects! 
 - 📫 How to reach me: [17callki@gmail.com](mailto:17callki@gmail.com) 
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I absolutely LOVE animals!
 
 #### LinkedIn:
