@@ -1,3 +1,5 @@
+![img-head]([https://imgur.com/a/XlOGsha](https://github.com/Kierra-Call/Kierra-Call/blob/main/Assets/Github%20Head.png?raw=true))
+
 ## Howdy 👋, I'm Kierra!
 ### I am a full stack developer.
 
